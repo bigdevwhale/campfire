@@ -26,7 +26,7 @@
 ## How an evening goes
 
 1. **Light it together.** Everyone who sits by the fire has a stone with their name and a drawn head. Two or more people hold their stones at the same time and the fire lights — it never starts for one pair of hands. A guest stone is always there for whoever drops in.
-2. **Ask the fire.** Tap the fire and a spark rises with a question. While the fire flares the questions are playful (*if you had a tail — what would it be like?*), as the logs burn down they come closer (*what did you leave unsaid today?*), and the embers ask the quiet things (*what is your quietest wish right now?*). Each question costs a log, so the evening is as long as the talk.
+2. **Ask the fire.** Tap the fire and a spark rises with a question. While the fire burns bright, the questions are light and funny (*if you had a tail — what would it be like?*). As the logs burn down, they come closer (*what did you leave unsaid today?*). And the embers ask about the quietest things (*what is your quietest wish right now?*). Each question costs a log, so the evening is as long as the talk.
 3. **Hand over the branch.** Tap someone's stone and the burning branch goes to them: now they answer.
 4. **One word in the ash.** When the logs are spent, write one word for the day into the ash.
 5. **Cover it together.** Two palms over the fire put it out. The evening goes into the box as a ticket.
