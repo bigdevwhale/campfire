@@ -9,8 +9,8 @@
 
     <!-- First welcome -->
     <string name="welcome_title">Один экран, один огонь</string>
-    <string name="welcome_sub">Костёр — это пятнадцать минут разговора вдвоём: родитель и ребёнок, двое друзей, любые двое. Работает, только когда вы рядом.</string>
-    <string name="how1_title">Зажгите вдвоём</string>
+    <string name="welcome_sub">Костёр — это пятнадцать минут разговора вместе: родитель и ребёнок, пара, друзья, вся семья. Работает, только когда вы рядом.</string>
+    <string name="how1_title">Зажгите вместе</string>
     <string name="how1_sub">Держите свои камни одновременно. Огонь не загорается от одной пары рук.</string>
     <string name="how2_title">Спросите у огня</string>
     <string name="how2_sub">Коснитесь огня — искра принесёт вопрос: игривый, пока пламя буйное, ближе — когда дрова прогорают, тихий — в углях.</string>
@@ -19,14 +19,14 @@
     <string name="start">К костру</string>
 
     <!-- The fire -->
-    <string name="hold_hint">Держите два камня вместе</string>
+    <string name="hold_hint">Держите камни вместе — двое или больше</string>
     <string name="tap_fire">Коснитесь огня — будет вопрос</string>
     <string name="now_you">Теперь ты, %1$s</string>
     <string name="word_prompt">Одно слово о дне</string>
     <string name="word_hint">Впишите в пепел</string>
     <string name="covered">Вечер в коробке</string>
     <string name="ember_title">Уголёк на завтра</string>
-    <string name="ember_sub">Откроется, только когда снова зажжёте вдвоём</string>
+    <string name="ember_sub">Откроется, только когда снова зажжёте вместе</string>
     <string name="night">Ночёвка</string>
     <string name="night_sub">Огонь сам уснёт</string>
     <string name="night_leave">Коснитесь экрана, чтобы тихо уйти</string>
@@ -61,7 +61,7 @@
     <string name="let_go">коснитесь, чтобы отпустить</string>
     <string name="cover_hint">Две ладони над огнём — погасить</string>
     <string name="from_ember">из уголька с прошлого раза</string>
-    <string name="ember_ready">Уголёк с прошлого раза готов — зажгите вдвоём</string>
+    <string name="ember_ready">Уголёк с прошлого раза готов — зажгите вместе</string>
     <string name="ember_still">Уголёк с прошлого раза ждёт завтрашнего дня</string>
     <string name="in_ash">В пепле: «%1$s»</string>
     <string name="recall_line">Год назад у этого огня: «%1$s»</string>

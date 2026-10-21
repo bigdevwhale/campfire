@@ -4,9 +4,9 @@
 
 # Campfire
 
-### A talk by the fire, for two.
+### A talk by the fire with the people close to you.
 
-*One screen, one fire, one phone between you. Hold your stones together and the fire lights; tap it and a spark brings a question; write one word for the day into the ash and cover the fire together. For a parent and a child, a couple, two friends — anyone who wants a quarter of an hour of real talk and to keep it. Free, no ads, no account, no internet permission.*
+*One screen, one fire, one phone for everyone around it. Hold your stones together and the fire lights; tap it and a spark brings a question; write one word for the day into the ash and cover the fire together. For a parent and a child, a couple, friends, the whole family — anyone who wants a quarter of an hour of real talk and to keep it. Free, no ads, no account, no internet permission.*
 
 [![Android CI](https://github.com/bigdevwhale/campfire/actions/workflows/android.yml/badge.svg)](https://github.com/bigdevwhale/campfire/actions/workflows/android.yml)
 [![Release](https://img.shields.io/github/v/release/bigdevwhale/campfire?color=F2A44A&label=download&logo=android)](https://github.com/bigdevwhale/campfire/releases/latest)
@@ -25,7 +25,7 @@
 
 ## How an evening goes
 
-1. **Light it together.** Everyone who sits by the fire has a stone with their name and a drawn head. Two people hold their stones at the same time and the fire lights — it never starts for one pair of hands. A guest stone is always there for whoever drops in.
+1. **Light it together.** Everyone who sits by the fire has a stone with their name and a drawn head. Two or more people hold their stones at the same time and the fire lights — it never starts for one pair of hands. A guest stone is always there for whoever drops in.
 2. **Ask the fire.** Tap the fire and a spark rises with a question. While the fire flares the questions are playful (*if you had a tail — what would it be like?*), as the logs burn down they come closer (*what did you leave unsaid today?*), and the embers ask the quiet things (*what is your quietest wish right now?*). Each question costs a log, so the evening is as long as the talk.
 3. **Hand over the branch.** Tap someone's stone and the burning branch goes to them: now they answer.
 4. **One word in the ash.** When the logs are spent, write one word for the day into the ash.

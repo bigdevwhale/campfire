@@ -9,7 +9,7 @@
 
     <!-- First welcome -->
     <string name="welcome_title">One screen, one fire</string>
-    <string name="welcome_sub">Campfire is fifteen minutes of talk for two — a parent and a child, two friends, any two people. It works only when you are together.</string>
+    <string name="welcome_sub">Campfire is fifteen minutes of talk together — a parent and a child, a couple, friends, the whole family. It works only when you are in the same room.</string>
     <string name="how1_title">Light it together</string>
     <string name="how1_sub">Hold your stones at the same time. The fire never starts for one pair of hands.</string>
     <string name="how2_title">Ask the fire</string>
@@ -19,7 +19,7 @@
     <string name="start">To the fire</string>
 
     <!-- The fire -->
-    <string name="hold_hint">Hold two stones together</string>
+    <string name="hold_hint">Hold your stones together — two or more</string>
     <string name="tap_fire">Tap the fire for a question</string>
     <string name="now_you">Now you, %1$s</string>
     <string name="word_prompt">One word for the day</string>
