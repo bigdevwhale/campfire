@@ -7,6 +7,7 @@
 *One screen, one fire, one phone between you. Hold your stones together and the fire lights; tap it and a spark brings a question; write one word for the day into the ash and cover the fire together. For a parent and a child, a couple, two friends — anyone who wants a quarter of an hour of real talk and to keep it. Free, no ads, no account, no internet permission.*
 
 [![Android CI](https://github.com/bigdevwhale/campfire/actions/workflows/android.yml/badge.svg)](https://github.com/bigdevwhale/campfire/actions/workflows/android.yml)
+[![Release](https://img.shields.io/github/v/release/bigdevwhale/campfire?color=F2A44A&label=download&logo=android)](https://github.com/bigdevwhale/campfire/releases/latest)
 ![Android 9+](https://img.shields.io/badge/Android-9%2B-3C9D50?logo=android&logoColor=white)
 ![Languages](https://img.shields.io/badge/lang-EN%20%7C%20RU-F2A44A)
 [![License: MIT](https://img.shields.io/badge/license-MIT-C9A25A)](LICENSE)

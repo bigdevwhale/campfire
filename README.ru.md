@@ -7,6 +7,7 @@
 *Один экран, один огонь, один телефон на двоих. Держите свои камни вместе — и огонь загорается; коснитесь его — искра принесёт вопрос; впишите в пепел одно слово о дне и накройте огонь вдвоём. Для родителя и ребёнка, пары, двух друзей — для всех, кому хочется четверть часа настоящего разговора и сохранить его. Бесплатно, без рекламы, без аккаунта, без доступа в интернет.*
 
 [![Android CI](https://github.com/bigdevwhale/campfire/actions/workflows/android.yml/badge.svg)](https://github.com/bigdevwhale/campfire/actions/workflows/android.yml)
+[![Release](https://img.shields.io/github/v/release/bigdevwhale/campfire?color=F2A44A&label=download&logo=android)](https://github.com/bigdevwhale/campfire/releases/latest)
 ![Android 9+](https://img.shields.io/badge/Android-9%2B-3C9D50?logo=android&logoColor=white)
 ![Languages](https://img.shields.io/badge/lang-EN%20%7C%20RU-F2A44A)
 [![License: MIT](https://img.shields.io/badge/license-MIT-C9A25A)](LICENSE)
