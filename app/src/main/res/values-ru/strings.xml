@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Костёр</string>
+    <string name="back">Назад</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="settings">Настройки</string>
+    <string name="box">Коробка</string>
+
+    <!-- First welcome -->
+    <string name="welcome_title">Один экран, один огонь</string>
+    <string name="welcome_sub">Костёр — это пятнадцать минут разговора вдвоём: родитель и ребёнок, двое друзей, любые двое. Работает, только когда вы рядом.</string>
+    <string name="how1_title">Зажгите вдвоём</string>
+    <string name="how1_sub">Держите свои камни одновременно. Огонь не загорается от одной пары рук.</string>
+    <string name="how2_title">Спросите у огня</string>
+    <string name="how2_sub">Коснитесь огня — искра принесёт вопрос: игривый, пока пламя буйное, ближе — когда дрова прогорают, тихий — в углях.</string>
+    <string name="how3_title">Одно слово в пепле</string>
+    <string name="how3_sub">Накрывая огонь, впишите в пепел одно слово о дне. Каждый вечер остаётся в коробке.</string>
+    <string name="start">К костру</string>
+
+    <!-- The fire -->
+    <string name="hold_hint">Держите два камня вместе</string>
+    <string name="tap_fire">Коснитесь огня — будет вопрос</string>
+    <string name="now_you">Теперь ты, %1$s</string>
+    <string name="word_prompt">Одно слово о дне</string>
+    <string name="word_hint">Впишите в пепел</string>
+    <string name="covered">Вечер в коробке</string>
+    <string name="ember_title">Уголёк на завтра</string>
+    <string name="ember_sub">Откроется, только когда снова зажжёте вдвоём</string>
+    <string name="night">Ночёвка</string>
+    <string name="night_sub">Огонь сам уснёт</string>
+    <string name="night_leave">Коснитесь экрана, чтобы тихо уйти</string>
+    <string name="cassette_on">Кассета у костра</string>
+    <string name="cassette_off">Вечер без кассеты</string>
+    <string name="mic_needed">Кассете нужен микрофон</string>
+    <string name="guest">Гость</string>
+    <string name="add_seat">Добавить место</string>
+    <string name="seat_name">Имя</string>
+
+    <!-- The box -->
+    <string name="box_title">Коробка</string>
+    <string name="box_empty">Вечеров пока нет. Огонь ждёт.</string>
+    <string name="recall_title">Огонь вспоминает</string>
+    <string name="recall_sub">Год назад у костра</string>
+    <string name="play">Послушать</string>
+    <string name="stop">Стоп</string>
+
+    <!-- Settings -->
+    <string name="seats">Места у костра</string>
+    <string name="seats_sub">Кто сидит у огня. Камень для гостя всегда есть.</string>
+    <string name="language">Язык</string>
+    <string name="system">Как на телефоне</string>
+    <string name="about">О приложении</string>
+    <string name="about_line">Костёр — приложение Stillcraft: один экран, один огонь, один разговор. Всё остаётся на вашем телефоне.</string>
+    <string name="remove_seat">Убрать %1$s? Вечера останутся.</string>
+
+    <!-- Added with the redesign -->
+    <string name="next">Дальше</string>
+    <string name="one_more">И ещё один камень</string>
+    <string name="branch_hint">Коснитесь камня — отдать горящую веточку</string>
+    <string name="let_go">коснитесь, чтобы отпустить</string>
+    <string name="cover_hint">Две ладони над огнём — погасить</string>
+    <string name="from_ember">из уголька с прошлого раза</string>
+    <string name="ember_ready">Уголёк с прошлого раза готов — зажгите вдвоём</string>
+    <string name="ember_still">Уголёк с прошлого раза ждёт завтрашнего дня</string>
+    <string name="in_ash">В пепле: «%1$s»</string>
+    <string name="recall_line">Год назад у этого огня: «%1$s»</string>
+    <string name="recall_plain">Год назад вы тоже сидели у этого огня</string>
+    <string name="seats_title">Кто сидит у огня?</string>
+    <string name="seats_onboard_sub">По имени на камень — ваше и того, с кем вы чаще всего разговариваете. Камень для гостя есть всегда.</string>
+    <string name="tap_head">Коснитесь головы, чтобы сменить</string>
+    <string name="everyone">Все</string>
+    <string name="words_of">%1$s: слова у огня</string>
+    <string name="minutes">%1$d мин</string>
+    <string name="delete_evening">Выбросить этот билет? Запись уйдёт вместе с ним.</string>
+    <string name="seats_full">Шесть камней — столько помещается у одного огня.</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ru">Русский</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campfire</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="box">The box</string>
+
+    <!-- First welcome -->
+    <string name="welcome_title">One screen, one fire</string>
+    <string name="welcome_sub">Campfire is fifteen minutes of talk for two — a parent and a child, two friends, any two people. It works only when you are together.</string>
+    <string name="how1_title">Light it together</string>
+    <string name="how1_sub">Hold your stones at the same time. The fire never starts for one pair of hands.</string>
+    <string name="how2_title">Ask the fire</string>
+    <string name="how2_sub">Tap the fire and a spark brings a question — playful while it flares, closer when it burns down, quiet in the embers.</string>
+    <string name="how3_title">One word in the ash</string>
+    <string name="how3_sub">Before covering the fire, write one word for the day into the ash. Every evening stays in the box.</string>
+    <string name="start">To the fire</string>
+
+    <!-- The fire -->
+    <string name="hold_hint">Hold two stones together</string>
+    <string name="tap_fire">Tap the fire for a question</string>
+    <string name="now_you">Now you, %1$s</string>
+    <string name="word_prompt">One word for the day</string>
+    <string name="word_hint">Write it into the ash</string>
+    <string name="covered">The evening is in the box</string>
+    <string name="ember_title">An ember for tomorrow</string>
+    <string name="ember_sub">It opens only when you light the fire together again</string>
+    <string name="night">Spending the night</string>
+    <string name="night_sub">The fire will doze off on its own</string>
+    <string name="night_leave">Tap anywhere to slip away</string>
+    <string name="cassette_on">The cassette is by the fire</string>
+    <string name="cassette_off">Evening without the cassette</string>
+    <string name="mic_needed">The cassette needs the microphone</string>
+    <string name="guest">Guest</string>
+    <string name="add_seat">Add a seat</string>
+    <string name="seat_name">Name</string>
+
+    <!-- The box -->
+    <string name="box_title">The box</string>
+    <string name="box_empty">No evenings yet. The fire is waiting.</string>
+    <string name="recall_title">The fire remembers</string>
+    <string name="recall_sub">A year ago, by the fire</string>
+    <string name="play">Listen</string>
+    <string name="stop">Stop</string>
+
+    <!-- Settings -->
+    <string name="seats">Seats by the fire</string>
+    <string name="seats_sub">Who sits here. A guest stone is always there.</string>
+    <string name="language">Language</string>
+    <string name="system">As on the phone</string>
+    <string name="about">About</string>
+    <string name="about_line">Campfire is a Stillcraft app: one screen, one fire, one talk at a time. Everything stays on your phone.</string>
+    <string name="remove_seat">Remove %1$s? The evenings stay.</string>
+
+    <!-- Added with the redesign -->
+    <string name="next">Next</string>
+    <string name="one_more">And one more stone</string>
+    <string name="branch_hint">Tap a stone to hand over the burning branch</string>
+    <string name="let_go">tap to let it go</string>
+    <string name="cover_hint">Two palms over the fire put it out</string>
+    <string name="from_ember">from last time’s ember</string>
+    <string name="ember_ready">Last time’s ember is ready — light the fire together</string>
+    <string name="ember_still">Last time’s ember is still waiting for tomorrow</string>
+    <string name="in_ash">In the ash: “%1$s”</string>
+    <string name="recall_line">A year ago at this fire: “%1$s”</string>
+    <string name="recall_plain">A year ago you sat by this fire too</string>
+    <string name="seats_title">Who sits by the fire?</string>
+    <string name="seats_onboard_sub">A name for each stone — yours, and whoever you talk with most. A guest stone is always there too.</string>
+    <string name="tap_head">Tap a head to change it</string>
+    <string name="everyone">Everyone</string>
+    <string name="words_of">%1$s: words by the fire</string>
+    <string name="minutes">%1$d min</string>
+    <string name="delete_evening">Throw this ticket away? Its recording goes with it.</string>
+    <string name="seats_full">Six stones is as many as fit round one fire.</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ru">Русский</string>
+</resources>
