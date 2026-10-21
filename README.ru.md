@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/logo.png" width="96" alt="Логотип Костра" />
+
 # Костёр
 
 ### Разговор у огня — вдвоём.

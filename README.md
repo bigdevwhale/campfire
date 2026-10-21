@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/logo.png" width="96" alt="Campfire logo" />
+
 # Campfire
 
 ### A talk by the fire, for two.
