@@ -76,4 +76,16 @@
     <string name="seats_full">Шесть камней — столько помещается у одного огня.</string>
     <string name="lang_en">English</string>
     <string name="lang_ru">Русский</string>
+
+    <!-- Community: the StillCraft bot on Telegram -->
+    <string name="community">Сообщество</string>
+    <string name="community_text">Приложение делается вместе с теми, кто им пользуется. Всё идёт через бота StillCraft в Telegram.</string>
+    <string name="community_bug">Сообщить о баге</string>
+    <string name="community_bug_sub">что сломалось и как повторить</string>
+    <string name="community_idea">Предложить идею</string>
+    <string name="community_idea_sub">функция, вопрос, камень</string>
+    <string name="community_follow">Подписаться на обновления</string>
+    <string name="community_follow_sub">бот напишет, когда выйдет версия</string>
+    <string name="community_chat">Чат StillCraft</string>
+    <string name="community_chat_sub">все приложения и люди</string>
 </resources>

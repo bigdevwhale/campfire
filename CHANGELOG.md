@@ -6,6 +6,13 @@ line "<!-- tg", then 2-4 short lines in Russian for users (what is new, what is 
 then close it like any HTML comment. The release notes carry it, and the chat bot posts those lines.
 -->
 
+## [1.0.1] - 2026-10-25
+
+### Added
+- Community links in settings: report a bug, suggest an idea or follow updates through the StillCraft bot on Telegram, and the StillCraft chat.
+
+<!-- tg skip -->
+
 ## [1.0.0]
 
 - First release: a talk by the fire with the people close to you. Stones with names light the fire when two or more people hold them together; sparks bring questions that grow quieter as the fire burns down; a burning branch passes the turn; one word goes into the ash; two palms cover the fire.

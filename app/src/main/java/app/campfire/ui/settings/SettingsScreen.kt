@@ -34,6 +34,7 @@ import app.campfire.R
 import app.campfire.container
 import app.campfire.data.Seat
 import app.campfire.ui.components.Chip
+import app.campfire.ui.components.CommunityLinks
 import app.campfire.ui.components.SeatRow
 import app.campfire.ui.components.SectionTitle
 import app.campfire.ui.components.TopBar
@@ -85,6 +86,9 @@ fun SettingsScreen(onBack: () -> Unit) {
                     }
                 }
             }
+
+            SectionTitle(stringResource(R.string.community), stringResource(R.string.community_text))
+            CommunityLinks()
 
             SectionTitle(stringResource(R.string.about))
             Text(stringResource(R.string.about_line), style = type.body, color = p.muted, modifier = Modifier.padding(top = 6.dp))
